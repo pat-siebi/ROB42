@@ -1,0 +1,15 @@
+# Python / Environments
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docs
+docs/
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
